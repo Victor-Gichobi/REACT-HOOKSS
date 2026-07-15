@@ -19,11 +19,9 @@ This project is a simple Movie App built with **React** that allows users to bro
 * HTML5
   
 
-
-
 ## Screenshot
 
-
+<img width="1366" height="768" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/4bf177d7-4337-4322-a531-7138e1201be6" />
 
 ##  Components
 
