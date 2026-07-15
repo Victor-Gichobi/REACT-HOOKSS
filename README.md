@@ -1,74 +1,50 @@
-<<<<<<< HEAD
-# REACT-HOOKSS
-=======
-# Getting Started with Create React App
+#  React Movie App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##  Description
 
-## Available Scripts
+This project is a simple Movie App built with **React** that allows users to browse, add, and filter their favorite movies or TV shows. It demonstrates the use of React Hooks , component-based architecture, and state management.
 
-In the project directory, you can run:
+##  Features
 
-### `npm start`
+* Display a list of movies.
+* Add a new movie.
+* Filter movies by title.
+* Filter movies by minimum rating.
+* Responsive card layout.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Built With
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* React
+* JavaScript 
+* HTML5
+  
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Screenshot
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+##  Components
 
-### `npm run eject`
+* **MovieCard** – Displays a movie's poster, title, description, and rating.
+* **MovieList** – Renders all movie cards.
+* **Filter** – Filters movies by title and rating.
+* **AddMovie** – Allows users to add new movies.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Learning Objectives
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This project demonstrates:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* React Functional Components
+* React Hooks (`useState`)
+* Props
+* Event Handling
+* Conditional Rendering
+* State Management
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+##  Author
 
-## Learn More
+VICTOR MUCHIRI
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 041301f (movie-app)
